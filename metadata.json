@@ -1,0 +1,8 @@
+{
+  "name": "My Education Sathi",
+  "description": "Professional educational platform for Indian school, college (+2/+3), competitive exams (SSC, OPSC, OSSSC, Railway, Banking) and IGNOU students with mock tests, video classes, PDF notes, and bilingual learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
